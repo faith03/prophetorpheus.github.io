@@ -23,3 +23,7 @@ a {
 a:hover {
   font-style: italic;
 }
+
+body {
+  background-color: blue;
+}
